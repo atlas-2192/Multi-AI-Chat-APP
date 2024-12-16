@@ -1,19 +1,8 @@
-<p align="center">
-  <img src="./public/logo_dark.png" height="200" alt="icon" />
-</p>
 
 <h1 align="center">VT.ai</h1>
 
 <p align="center">
   <em>Minimal multimodal AI chat app with dynamic conversation routing</em>
-</p>
-
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
-  <a href="https://github.com/vinhnx"><img src="https://img.shields.io/github/stars/vinhnx?style=social" alt="GitHub Stars"></a>
-  <a href="https://news.ycombinator.com/user?id=vinhnx"><img src="https://img.shields.io/hackernews/user-karma/vinhnx?style=social" alt="HackerNews Karma"></a>
-  <a href="https://twitter.com/vinhnx"><img src="https://img.shields.io/twitter/follow/vinhnx?style=social" alt="Twitter Follow"></a>
-  <a href="https://twitter.com/vtdotai"><img src="https://img.shields.io/twitter/follow/vtdotai?style=social" alt="VT.ai Twitter"></a>
 </p>
 
 ## Overview
@@ -96,9 +85,6 @@ ollama serve
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## Release Information
-
-Check our [releases page](https://github.com/vinhnx/VT.ai/releases) for version history and updates.
 
 ## License
 
@@ -106,5 +92,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Connect
 
-- Twitter: [@vinhnx](https://twitter.com/vinhnx)
-- Project Updates: [@vtdotai](https://twitter.com/vtdotai)
+-Email: sunstar962090@gmail.com
